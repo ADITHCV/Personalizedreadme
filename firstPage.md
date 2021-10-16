@@ -1,8 +1,6 @@
  # Adith CV:smiley:
 
-
-  
-  
+---
 
   <img align="left" alt="Adith's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
@@ -18,7 +16,10 @@
 
 <br/>
 <br/>
-
+## Who am I ? 
+- 🔭 I’m currently working on Data Analytics and Machine Learning
+- 🌱 I’m currently learning Apache Spark and PowerBI
+- 👯 I’m looking to collaborate on Data Analytics projects, Hackathons or Business Challenges
 ## Technologies :fire:
 - Data Science.
 - Python.
