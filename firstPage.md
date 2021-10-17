@@ -13,48 +13,27 @@
   <img align="left" alt="Adith's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 
 
-
-<br/>
-<br/>
-## Who am I ? 
-- 🔭 I’m currently working on Data Analytics and Machine Learning
-- 🌱 I’m currently learning Apache Spark and PowerBI
-- 👯 I’m looking to collaborate on Data Analytics projects, Hackathons or Business Challenges
-## Technologies :fire:
-- Data Science.
-- Python.
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
-
-**Languages and Tools:**  
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITHCV&theme=radical&hide=glsl,python" />
-<img src="https://github-readme-stats.vercel.app/api?username=ADITHCV&&show_icons=true&theme=radical&line_height=27&v=5" alt="ADITHCV 's GitHub Stats" />
+<h2> Hi, I'm Adith! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>A human<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
 
-## About Me:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p>
-  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
-</p>
-Programing ❤️| Computer Science 💙| Games 💚
+```javascript
+const adith = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                       "GDG Trivandrum" : "2 years",
+                       "Facebook Developers Group : "1.5 years"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
-I'm from Kerala
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-I studied Python 
-
-
-Programmer who makes some kludges.
-Trying to study the coding now
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Computers :books:
--  **Ask me about :** Python and linux :v:
--  **Fun fact :** I dont linke coffee:sweat_smile: and tea 
--  **Pronouns :** He/Him/His :innocent:
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-</div>
